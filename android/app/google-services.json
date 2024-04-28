@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3225547112",
+    "project_id": "audio-sharing-app",
+    "storage_bucket": "audio-sharing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3225547112:android:90509ce95fedb25472a6dd",
+        "android_client_info": {
+          "package_name": "com.videoeditor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8P0M9Sttmv-k_fRFQ0MW9BnLBFiFQIr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
